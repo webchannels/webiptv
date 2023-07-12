@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Boomerang FR
+http://212.8.253.117/Boomerang/index.m3u8
+#EXTINF:-1,YTV
+http://sansat.net:25461/yauFhdvLg/e9DSHBnuCXxyt6b/94233
+#EXTINF:-1,Treehouse
+http://sansat.net:25461/yauFhdvLg/e9DSHBnuCXxyt6b/268753
+#EXTINF:-1,Nickelodeon Global (RU, LT, EN)
+http://91.209.24.89:8091/udp/239.255.13.187:1234
+#EXTINF:-1,Nickelodeon MX (4:3)
+http://190.14.153.40:9981/stream/channel/eb0afa3fd417d65676c97ade6eb52309
+#EXTINF:-1,Nickelodeon NL
+http://149.62.183.200:19002/play/a018
